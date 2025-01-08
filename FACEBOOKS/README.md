@@ -52,4 +52,6 @@ CameraApp/
 애플리케이션의 설정 값과 경로 정보를 저장하는 파일입니다.
 
 ## 시연 ppt
-[ppt](https://drive.google.com/file/d/13Olggws0CN2cgvkmCZlPBrFkPXdw3Itt/view?usp=sharing)
+[ppt]()
+## 시연 영상
+[영상](https://drive.google.com/file/d/13Olggws0CN2cgvkmCZlPBrFkPXdw3Itt/view?usp=sharing)
