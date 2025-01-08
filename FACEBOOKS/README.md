@@ -52,4 +52,4 @@ CameraApp/
 애플리케이션의 설정 값과 경로 정보를 저장하는 파일입니다.
 
 ## 시연 ppt
-[2조 - FACEBOOKS](./2조%20-%20미니%20프로젝트.pdf)
+[ppt](https://drive.google.com/file/d/13Olggws0CN2cgvkmCZlPBrFkPXdw3Itt/view?usp=sharing)
